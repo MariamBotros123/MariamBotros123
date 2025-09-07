@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Communication& Information Engineering student at Zewail University<br>💻passionate about learning ,problem solving, and software development.</p>
+<p align="left">Communication& Information Engineering student at Zewail University<br>💻passionate about learning,problem solving, and software development.</p>
 
 ###
 
